@@ -4,7 +4,7 @@ This project is a Music list made using backend technologies. It provides Authen
 
 &emsp;
 
-<img src="" width="700">
+<img src="https://github.com/DashlinS/MyMusicList/blob/main/public/img/musiclistdemo.gif" width="700">
 
 <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Click Here to go to the website!]() -->
 
